@@ -1,0 +1,33 @@
+{
+  "name": "Animal Memory Match",
+  "short_name": "Memory Match",
+  "description": "A fun educational memory card matching game for kids featuring animals and fun facts!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6d28d9",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["games", "education", "kids"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
